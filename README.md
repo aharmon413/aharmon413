@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi, I'm Amber! ✨ I design and code cool stuff on the front end of the web.
+![HTML](https://img.shields.io/badge/-HTML-8fcfd1?style=flat&logo=HTML5&color=363169)
+![CSS](https://img.shields.io/badge/-CSS-8fcfd1?style=flat&logo=CSS3&color=363169)
+![Sass](https://img.shields.io/badge/-Sass-8fcfd1?style=flat&logo=Sass&color=363169)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8fcfd1?style=flat&logo=Bootstrap&color=363169)
+![JavaScript](https://img.shields.io/badge/-JavaScript-8fcfd1?style=flat&logo=JavaScript&color=363169)
+![React](https://img.shields.io/badge/-React-8fcfd1?style=flat&logo=React&color=363169)
+![Redux](https://img.shields.io/badge/-Redux-8fcfd1?style=flat&logo=Redux&color=363169)
+![jQuery](https://img.shields.io/badge/-jQuery-8fcfd1?style=flat&logo=jQuery&color=363169)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python&color=363169)
+![Git](https://img.shields.io/badge/-Git-8fcfd1?style=flat&logo=Git&color=363169)
+![VSCode](https://img.shields.io/badge/-VS%20Code-8fcfd1?style=flat&logo=visual-studio-code&color=363169)
+
+----
+#### Recently, I've been working on:
+* A complete redesign of [my portfolio site](https://amberharmon.com/) 🎨
+* The initial planning stages of my next personal project 💭
+* Starting FreeCodeCamp's Data Visualization certification 📊
+----
+
+#### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [twitter](https://twitter.com/amarieharmon) | [codepen](https://codepen.io/aharmon413/) | [my portfolio](https://amberharmon.com)
 
 <!--
 **aharmon413/aharmon413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
