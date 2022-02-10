@@ -6,7 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8fcfd1?style=flat&logo=JavaScript&color=363169)
 ![React](https://img.shields.io/badge/-React-8fcfd1?style=flat&logo=React&color=363169)
 ![Redux](https://img.shields.io/badge/-Redux-8fcfd1?style=flat&logo=Redux&color=363169)
-![jQuery](https://img.shields.io/badge/-jQuery-8fcfd1?style=flat&logo=jQuery&color=363169)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python&color=363169)
 ![Git](https://img.shields.io/badge/-Git-8fcfd1?style=flat&logo=Git&color=363169)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-8fcfd1?style=flat&logo=visual-studio-code&color=363169)
