@@ -12,8 +12,8 @@
 
 ----
 #### Recently, I've been working on:
+* Polishing my latest personal project, [a React app about the moon](https://moons.amberharmon.com) 🌙
 * A complete redesign of [my portfolio site](https://amberharmon.com/) 🎨
-* The initial planning stages of my next personal project 💭
 * Starting FreeCodeCamp's Data Visualization certification 📊
 ----
 
