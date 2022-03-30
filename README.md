@@ -14,7 +14,7 @@
 #### Recently, I've been working on:
 * Polishing my latest personal project, [a React app about the moon](https://moons.amberharmon.com) 🌙
 * A complete redesign of [my portfolio site](https://amberharmon.com/) 🎨
-* Starting FreeCodeCamp's Data Visualization certification 📊
+* Learning how to write unit tests 🔧
 ----
 
 #### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [twitter](https://twitter.com/amarieharmon) | [codepen](https://codepen.io/aharmon413/) | [my portfolio](https://amberharmon.com)
