@@ -12,13 +12,8 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-8fcfd1?style=flat&logo=visual-studio-code&color=12544c)
 
 ----
-#### Recently, I've been working on:
-* Revisiting and updating [a Pomodoro timer React app](https://github.com/aharmon413/pomodoro-timer) I originally coded for a FreeCodeCamp certification ⏱️
-* Polishing my latest personal project, [a React app about the moon](https://moons.amberharmon.com) 🌙
-* Learning how to write unit tests 🔧
-----
 
-#### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [twitter](https://twitter.com/amarieharmon) | [codepen](https://codepen.io/aharmon413/) | [my portfolio](https://amberharmon.com)
+#### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [codepen](https://codepen.io/aharmon413/) | [my portfolio](https://amberharmon.com)
 
 <!--
 **aharmon413/aharmon413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
