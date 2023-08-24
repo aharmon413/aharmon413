@@ -1,4 +1,4 @@
-### Hi, I'm Amber! ✨ I design and code cool stuff on the front end of the web.
+### Hi, I'm Amber! ✨ I design and code cool stuff, mostly on the front end of the web.
 ![HTML](https://img.shields.io/badge/-HTML-8fcfd1?style=flat&logo=HTML5&color=12544c)
 ![CSS](https://img.shields.io/badge/-CSS-8fcfd1?style=flat&logo=CSS3&color=12544c)
 ![Sass](https://img.shields.io/badge/-Sass-8fcfd1?style=flat&logo=Sass&color=12544c)
@@ -13,7 +13,7 @@
 
 ----
 
-#### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [codepen](https://codepen.io/aharmon413/) | [my portfolio](https://amberharmon.com)
+#### find me on 》[linkedin](https://www.linkedin.com/in/amber-m-harmon/) | [my portfolio](https://amberharmon.com) | [codepen](https://codepen.io/aharmon413/)
 
 <!--
 **aharmon413/aharmon413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
